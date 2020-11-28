@@ -1,0 +1,12 @@
+RESULTS RELATIVE ENGAGEMENT:
+order 6 -> avg RT pol: 326.0734463276836
+order 6 -> avg RT news: 81.34177215189874
+order 5 -> avg RT pol: 93.59581320450886
+order 5 -> avg RT news: 447.46994535519127
+order 5 -> avg RT fnp: 266.1912568306011
+order 4 -> avg RT pol: 211.875854214123
+order 4 -> avg RT news: 2.945916114790287
+order 4 -> avg RT fnp: 4.193939393939394
+order 3 -> avg RT pol: 1.572549019607843
+order 3 -> avg RT news: 25.027173913043477
+order 3 -> avg RT fnp: 147.61764705882354

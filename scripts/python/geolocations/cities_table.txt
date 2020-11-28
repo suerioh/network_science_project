@@ -1,0 +1,33 @@
+Madrid
+Sevilla
+Valencia
+Oviedo
+Barcelona
+Jaen
+Bilbao
+Burgos
+Castellón
+Palencia
+Murcia
+La Coruña
+Ourense
+Pamplona
+Salamanca
+Almería
+Biscaia
+Brussels
+Zaragoza
+Cádiz
+Gerona
+Las Palmas de Gran Canaria
+León
+Mallorca
+San Sebastián
+Córdoba
+Málaga
+Galicia
+Santa Cruz de Tenerife
+Lugo
+Granada
+Palma
+Vigo

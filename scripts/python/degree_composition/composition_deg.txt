@@ -1,0 +1,33 @@
+OUT DEGREE
+classes of nodes that costitute the deg_out of POL: 
+pol: 94.31818181818181 %
+news: 5.182926829268292 %
+fnp: 0.49889135254988914 %
+
+classes of nodes that costitute the deg_out of nodes of NEWS: 
+pol: 57.81990521327014 %
+news: 42.18009478672986 %
+fnp: 0.0 %
+
+classes of nodes that costitute the deg_out of nodes of FNP: 
+pol: 29.698375870069604 %
+news: 1.3921113689095128 %
+fnp: 68.90951276102088 %
+
+
+
+IN DEGREE
+classes of nodes that costitute the deg_in of nodes of POL: 
+pol: 77.6054732041049 %
+news: 19.475484606613456 %
+fnp: 2.919042189281642 %
+
+classes of nodes that costitute the deg_in of nodes of NEWS: 
+pol: 22.916666666666668 %
+news: 76.34803921568627 %
+fnp: 0.7352941176470589 %
+
+classes of nodes that costitute the deg_in of nodes of FNP: 
+pol: 5.454545454545454 %
+news: 0.0 %
+fnp: 94.54545454545455 %

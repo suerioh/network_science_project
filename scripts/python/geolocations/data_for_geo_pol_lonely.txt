@@ -1,0 +1,3 @@
+248179184	pol	Las Palmas de Gran Canaria	28.09973	-15.41343
+372812630	pol	Madrid	40.4165	-3.70256
+392199690	pol	Madrid	40.4165	-3.70256
